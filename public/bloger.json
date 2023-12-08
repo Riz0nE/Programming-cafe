@@ -1,0 +1,42 @@
+[
+    {
+        "id": "124e1",
+        "author": "Imran Hossain",
+        "name": "How to get your first job as Programmer",
+        "proImg": "../knowledge-cafe/images/boy1.png",
+        "blogImg": "../knowledge-cafe/images/pic1.jpg",
+        "days": "Mar 18 (5 days ago)",
+        "minite": 5,
+        "length": 1
+    },
+    {
+        "id": "124e2",
+        "author": "Rafi Hossain",
+        "name": "How to get your first job as Programmer",
+        "proImg": "../knowledge-cafe/images/boy2.png",
+        "blogImg": "../knowledge-cafe/images/pic2.jpg",
+        "days": "Mar 18 (5 days ago)",
+        "minite": 10,
+        "length": 1
+    },
+    {
+        "id": "124e3",
+        "author": "Rifat Hossain",
+        "name": "How to get your first job as Programmer",
+        "proImg": "../knowledge-cafe/images/girl1.jpg",
+        "blogImg": "../knowledge-cafe/images/pic3.jpg",
+        "days": "Mar 18 (5 days ago)",
+        "minite": 15,
+        "length": 1
+    },
+    {
+        "id": "124e4",
+        "author": "Mehedi Hossain",
+        "name": "How to get your first job as Programmer",
+        "proImg": "../knowledge-cafe/images/girl2.jpg",
+        "blogImg": "../knowledge-cafe/images/4.jpg",
+        "days": "Mar 18 (5 days ago)",
+        "minite": 12,
+        "length": 1
+    }
+]
